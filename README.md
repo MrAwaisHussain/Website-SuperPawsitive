@@ -1,5 +1,7 @@
 # SuperPawsitive
 Basic HTML/CSS website for SuperPawsitive
+Preview:
+![websitepreview](https://i.imgur.com/VkeRWVu.png)
 
 Check out my buddy @ [Twitch](https://twitch.tv/superpawsitive)
 
